@@ -21,6 +21,10 @@ public class FirstClass {
 
     public void test(){
         System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
 
     }
 }
